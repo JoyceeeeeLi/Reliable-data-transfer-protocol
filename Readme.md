@@ -1,4 +1,4 @@
-CS456 Assignemnt 2   Developed by Qian Li. \
+CS456 Assignemnt 2   Developed by Joyce Li. \
 The program is built by Python 3.8.10. \
 The program is built and tested on ubuntu2004-002.student.cs.uwaterloo.ca
 
